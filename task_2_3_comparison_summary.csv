@@ -1,0 +1,3 @@
+RUL source,Best final cost,Mean final cost,Std final cost
+Our XGBoost predictions,507,2145.3,1017.3573660935609
+Consultancy predictions,991,3095.0,1576.1549678755007
